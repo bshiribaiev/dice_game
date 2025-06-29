@@ -1,3 +1,3 @@
 # Dice Game
 
-Try it out - 
+Try it out - https://bshiribaiev.github.io/dice_game/
