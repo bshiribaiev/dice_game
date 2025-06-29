@@ -2,12 +2,30 @@
   width: 70%;
   margin: auto;
   text-align: center;
+  /* display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center; */
 }
 
 .dice {
   text-align: center;
   display: inline-block;
 
+}
+
+button{
+  display: block;
+  margin: 30px auto;
+  padding: 8px;
+  background-color: yellow;
+  border-radius: 8px;
+  font-size: 20px;
+}
+
+button:hover{
+  background-color: white;
 }
 
 body {
@@ -19,12 +37,12 @@ h1 {
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
-  color: #4ECCA3;
+  color: white;
 }
 
 p {
   font-size: 2rem;
-  color: #4ECCA3;
+  color: white;
   font-family: 'Indie Flower', cursive;
 }
 
